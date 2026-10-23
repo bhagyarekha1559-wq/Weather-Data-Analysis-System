@@ -41,9 +41,9 @@ The project presents weather data analysis through summary statistics and visual
 This project demonstrates how Python libraries can be used to clean, analyze, and visualize weather data.
 
 ## Team Members
-K Bhagya Rekha
-P Satya
-S Praharshitha
+K Bhagya Rekha,
+P Satya,
+S Praharshitha,
 S Ruhee
 
 ## Faculty Guide
